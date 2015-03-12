@@ -1,2 +1,5 @@
 # hello-world
-My first git repository
+
+So this is my first git repository
+
+print "Hello World!"
